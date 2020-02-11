@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "smartcom", "smartcom\smartcom.csproj", "{2AC75CE6-9622-44B0-A7C2-8B64E476EC6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AC75CE6-9622-44B0-A7C2-8B64E476EC6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AC75CE6-9622-44B0-A7C2-8B64E476EC6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AC75CE6-9622-44B0-A7C2-8B64E476EC6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AC75CE6-9622-44B0-A7C2-8B64E476EC6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E227F37-6C3F-423D-880A-F19D544C060A}
+	EndGlobalSection
+EndGlobal
